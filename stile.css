@@ -1,0 +1,6 @@
+body   {background-image: url('bg.jpg');background-repeat: no-repeat;background-attachment: fixed; background-size: cover; margin:40px;font-family:verdana;font-size: 20px; }
+h1     {font-size: 65px; font-weight: lighter; font-family:"Brush Script MT", "Brush Script Std", cursive; color:DarkGreen;}
+h2     {font-size: 50px; font-weight: lighter; font-family:"Brush Script MT", "Brush Script Std", cursive; color:MediumSeaGreen;}
+strong {color:blue}
+img    {width:300px;}
+h3     {font-weight: lighter; font-size: 40px; font-family:"Brush Script MT", "Brush Script Std", cursive; color:LightGreen;}
